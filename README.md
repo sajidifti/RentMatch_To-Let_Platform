@@ -1,6 +1,6 @@
 # RentMatch
 
-RentMatch is a platform where users can post TO-LETs and find relavant rents for them.
+RentMatch is a platform where users can post TO-LETs and find relevant rents for them.
 
 ## Features
 
