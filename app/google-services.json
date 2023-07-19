@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "913124656449",
+    "project_id": "login-and-signup-ea7b4",
+    "storage_bucket": "login-and-signup-ea7b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913124656449:android:d0f18de32f49f9ada2cdc0",
+        "android_client_info": {
+          "package_name": "edu.ewubd.loginandsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913124656449-eel434gno09eau0ueiccn7tkesdt80uc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOZSFNtuJSxi4G-lXcEdPLoa9WTonxn9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913124656449-eel434gno09eau0ueiccn7tkesdt80uc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

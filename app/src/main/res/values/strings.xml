@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RentMatch</string>
+    <string name="pick_location">Pick Location</string>
+    <string name="go_back">Go Back</string>
+    <string name="show_direction">Show Direction</string>
+    <string name="accessToken">YOUR MAPBOX ACCESS TOKEN/API KEY HERE</string>
+</resources>
