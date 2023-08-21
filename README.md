@@ -63,3 +63,11 @@ Firebase was used to store the data in this app. The Firebase project used here 
 ## App Demonstration Video
 
 [![Video Thumbnail](demo.png)](https://sajidifti.com/static/RentMatchDemo.mp4)
+
+## Usage
+
+You can clone the repo and open it with Android Studio to run the app.
+
+```bash
+git clone https://github.com/sajidifti/RentMatch_To-Let_Platform
+```
