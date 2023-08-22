@@ -54,7 +54,7 @@ Users can logout from the application.
 
 ## About Map Feature
 
-MapBox Java SDK was used for this app. The API keys used here were removed. If you want to run this project you need to replace your MapBox API keys in settings.gradle and strings.xml file.
+MapBox Java SDK was used for this app. The API keys used here were removed. If you want to run this project you need to replace your MapBox API keys in <b><i>settings.gradle</i></b> and <b><i>strings.xml</i></b> file.
 
 ## Database
 
